@@ -1,0 +1,1 @@
+print ("I wish you ill fate, world!")
